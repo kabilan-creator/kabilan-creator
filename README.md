@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kabilan-creator
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Django 
+- ✌️ I've completed my Python full stack course
 - 📫 How to reach me kabilan172001@gmail.com 
 <!---
 kabilan-creator/kabilan-creator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
